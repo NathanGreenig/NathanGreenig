@@ -3,7 +3,7 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 - <b>Active Directory </b>
-  - [Single User Creation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Single User Creation](https://github.com/NathanGreenig/SingleUserCreation)
   - [User Permissions (Add, Remove, and Change)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
